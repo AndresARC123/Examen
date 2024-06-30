@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../../../Program Files/xampp/htdocs/SistemaBecados"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "practica1appweb"
+  }
+}
