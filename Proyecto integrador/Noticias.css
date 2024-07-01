@@ -74,6 +74,13 @@ h2 {
 .container mt-5 {
   float: right;
 }
-.menuhamburguesa {
+
+.navbar.navbar-dark.bg-dark {
+  background-color: rgb(197, 27, 27);
+}
+.collapse {
+  background-color: rgb(197, 27, 27);
+}
+.navbar.navbar-dark.bg-dark {
   background-color: rgb(197, 27, 27);
 }
